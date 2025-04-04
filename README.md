@@ -19,7 +19,7 @@
   <img alt="Sql" src="https://img.shields.io/badge/-Sql-181818?style=flat-square&logo=sql&logoColor=white" />
   <img alt="laravel" src="https://img.shields.io/badge/-Laravel-761111?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-F00029?style=flat-square&logo=c++&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
 </p>
 
